@@ -1,4 +1,32 @@
-.card-body{
-    margin: 10px 10px;
+body{
+    background-color: #007fff;
+}
 
+#stats{
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.logo-img{
+    width: 65px;
+    float: left;
+}
+
+.stat-text{
+    text-align: left;
+}
+
+#timely-stats{
+    margin-left: 20px;
+}
+.schedule-logo{
+    width: 50px;
+    margin-left: 15px;
+}
+
+.card-body{
+    background-color: #FFFDDE;
+}
+
+#chat-stats{
 }
